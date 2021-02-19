@@ -1,0 +1,5 @@
+Also there is a problem for elderly people to keep track of which 
+medicine they took or which they didn't as they have to take a lot of medicines
+
+We will add a feature of telling to detect medicine based on QR code of the medicine and 
+it will tell which medicine it is and they already took that medicine or not.
