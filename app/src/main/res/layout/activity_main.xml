@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:backgroundTint="#1C1B1B"
+    tools:context=".MainActivity">
+
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_marginTop="48dp"
+        android:background="@color/white"
+        android:backgroundTint="#050505"
+        android:fontFamily="sans-serif"
+        android:gravity="center"
+        android:text="HEALTH ASSISTANT"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        android:textColor="#DAD5D5"
+        android:textSize="24sp"
+        android:textStyle="normal"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/fever_btn"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_marginTop="40dp"
+        android:backgroundTint="#050505"
+        android:fontFamily="sans-serif"
+        android:gravity="center"
+        android:text="Fever"
+        android:textColor="#DAD5D5"
+        android:textSize="24sp"
+        android:textStyle="normal"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView3" />
+
+    <Button
+        android:id="@+id/skin_btn"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_marginTop="32dp"
+        android:backgroundTint="#050505"
+        android:fontFamily="sans-serif"
+        android:gravity="center"
+        android:text="Skin Problems"
+        android:textColor="#DAD5D5"
+        android:textSize="24sp"
+        android:textStyle="normal"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/fever_btn" />
+
+    <Button
+        android:id="@+id/medicine_btn"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_marginTop="32dp"
+        android:backgroundTint="#050505"
+        android:fontFamily="sans-serif"
+        android:gravity="center"
+        android:text="Medicine Reminder"
+        android:textColor="#DAD5D5"
+        android:textSize="24sp"
+        android:textStyle="normal"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/skin_btn" />
+
+    <Button
+        android:id="@+id/doctor_btn"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:backgroundTint="#050505"
+        android:fontFamily="sans-serif"
+        android:gravity="center"
+        android:text="Finding A Doctor"
+        android:textColor="#DAD5D5"
+        android:textSize="24sp"
+        android:textStyle="normal"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/medicine_btn"
+        app:layout_constraintVertical_bias="0.397" />
+</androidx.constraintlayout.widget.ConstraintLayout>
