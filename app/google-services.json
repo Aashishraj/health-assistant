@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "682916283211",
+    "firebase_url": "https://fireapp-40134.firebaseio.com",
+    "project_id": "fireapp-40134",
+    "storage_bucket": "fireapp-40134.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682916283211:android:84d0bcafdc6a7093441ece",
+        "android_client_info": {
+          "package_name": "application.example.authenticator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682916283211-rhvrcqe3b0lr549b6okd88abicttg0ur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1flJmhMw26jX4CvKD4XbbxTLN6f-cAMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682916283211-mra4eq2n6v48b14b0j525cn3a8ql6lmh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682916283211:android:570e904533bd658c441ece",
+        "android_client_info": {
+          "package_name": "com.example.health"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682916283211-rhvrcqe3b0lr549b6okd88abicttg0ur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1flJmhMw26jX4CvKD4XbbxTLN6f-cAMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682916283211-mra4eq2n6v48b14b0j525cn3a8ql6lmh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682916283211:android:6c516b70cba1f350441ece",
+        "android_client_info": {
+          "package_name": "com.example.healthass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682916283211-36lemko4itcfusv5vodn7dli6o29ea29.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.healthass",
+            "certificate_hash": "5dc418c7cf953fd722b685548ff3a2f66c0194a4"
+          }
+        },
+        {
+          "client_id": "682916283211-rhvrcqe3b0lr549b6okd88abicttg0ur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1flJmhMw26jX4CvKD4XbbxTLN6f-cAMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682916283211-mra4eq2n6v48b14b0j525cn3a8ql6lmh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
