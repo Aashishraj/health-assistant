@@ -2,6 +2,8 @@
 
 Copyright (c) 2021 Aashish Raj
 
+![Objective](https://firebasestorage.googleapis.com/v0/b/fireapp-40134.appspot.com/o/uploads%2FLSM%20REVIEW%202.jpg?alt=media&token=553c344b-cbd0-40d0-b090-9a60525a1d3c)
+
 Detect disease at intimate places of the human body.
 A software which detects skin diseases by taking pictures of areas of skin and symptoms.
 You can either create your profile 
